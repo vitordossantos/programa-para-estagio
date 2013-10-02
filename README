@@ -1,0 +1,16 @@
+Esse codigo foi inscrito no sistema operacional Linux Ubuntu versao 12.05 com versao do kernel 3.8.0-29
+
+Ele usou o compilador g++ obtido usando o comando apt-get
+
+Coloque os arquivos em um diretorio de sua preferencia organizado exatamente como esta no link do github fornecido e chamar
+o comando make voce ira gerar 2 executaveis , um deles eh o proprio programa em si e o outro eh um programa de testes dos metodos
+das classes.
+
+
+O programa principal valida o numero de uma ID de produto e tambem pergunta varias vezes ao usuario se ele quer realmente fazer
+uma determinada operacao , alem disso ele tambem diz ao usuario quando a ID ou o codigo de cupom digitado nao existem.
+
+O programa de teste testa tres metodos da classe "Shoppingcart" que considerei como criticos para existencia de falhas baseado
+na regra empirica de software de que 80% dos problemas estao em 20% do codigo (Pareto).
+
+ 
