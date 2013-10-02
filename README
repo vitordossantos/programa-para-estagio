@@ -3,7 +3,7 @@ Esse codigo foi inscrito no sistema operacional Linux Ubuntu versao 12.05 com ve
 Ele usou o compilador g++ obtido usando o comando apt-get
 
 Coloque os arquivos em um diretorio de sua preferencia organizado exatamente como esta no link do github fornecido e chame
-o comando make voce ira gerar 2 executaveis , um deles eh o proprio programa em si e o outro eh um programa de testes dos metodos
+o comando make, voce ira gerar 2 executaveis , um deles eh o proprio programa em si e o outro eh um programa de testes dos metodos
 das classes.
 
 
